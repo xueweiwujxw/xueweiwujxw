@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Tsinghua EE
+- 🌱 I’m currently learning Rust and Rust os
+- 📫 How to reach me: xueweiwujxw@outlook.com or xueweiwujxw@gmail.com
+- 📝 I regularly write articles on https://wlanxww.com
