@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust and Rust os
 - 📫 How to reach me: xueweiwujxw@outlook.com or xueweiwujxw@gmail.com
 - 📝 I regularly write articles on https://wlanxww.com
+
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=xueweiwujxw&show_icons=true&theme=shades-of-purple" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xueweiwujxw&layout=compact" width="45%" />
+</span>
