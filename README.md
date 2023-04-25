@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on https://wlanxww.com
 
 <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=xueweiwujxw&show_icons=true&theme=shades-of-purple" width="51%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xueweiwujxw&show_icons=true&theme=shades-of-purple" width="51%"/>
   <text>&ensp;<text/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xueweiwujxw&layout=compact" width="42.5%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xueweiwujxw&layout=compact" width="42.5%"/>
 </span>
