@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: xueweiwujxw@outlook.com or xueweiwujxw@gmail.com
 - 📝 I regularly write articles on https://wlanxww.com
 
-<span>
-  <img height="170" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xueweiwujxw&count_private=true&include_all_commits=true&theme=shades-of-purple" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xueweiwujxw&layout=compact" />
-</span>
+<div>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xueweiwujxw&count_private=true&include_all_commits=true&theme=onedark" width="52%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xueweiwujxw&layout=compact&theme=onedark" width="42%"/>
+</div>
 
 ---
 
