@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on https://wlanxww.com
 
 <span>
-  <img height="170" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xueweiwujxw&show_icons=true&theme=shades-of-purple" />
+  <img height="170" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xueweiwujxw&count_private=true&include_all_commits=true&theme=shades-of-purple" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xueweiwujxw&layout=compact" />
 </span>
 
 ---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=xueweiwujxw&row=1&theme=onedark&margin-w=10&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=xueweiwujxw&row=1&theme=onedark&margin-w=10&no-frame=true"/>
 </a>
 
 [![GitHub followers](https://img.shields.io/github/followers/xueweiwujxw?style=social)](https://github.com/xueweiwujxw?tab=followers)
