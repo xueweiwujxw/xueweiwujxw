@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=xueweiwujxw&row=1&theme=onedark&margin-w=10&no-frame=true"/>
+  
+---
+
+### My GitHub Contributions
+
+![Contribution Snake](https://raw.githubusercontent.com/xueweiwujxw/xueweiwujxw/main/assets/github-contribution-grid-snake.svg)
 </a>
 
 [![GitHub followers](https://img.shields.io/github/followers/xueweiwujxw?style=social)](https://github.com/xueweiwujxw?tab=followers)
