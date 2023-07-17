@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 ### My GitHub Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xueweiwujxw/xueweiwujxw/main/assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xueweiwujxw/xueweiwujxw/main/assets/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xueweiwujxw/xueweiwujxw/main/assets/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xueweiwujxw/xueweiwujxw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xueweiwujxw/xueweiwujxw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xueweiwujxw/xueweiwujxw/output/github-contribution-grid-snake.svg">
 </picture>
 
 [![GitHub followers](https://img.shields.io/github/followers/xueweiwujxw?style=social)](https://github.com/xueweiwujxw?tab=followers)
