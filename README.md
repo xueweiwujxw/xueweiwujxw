@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Tsinghua EE
+- 🔭 I previously worked on Tsinghua EE
 - 🌱 I specialize in FPGA and embedded system software development
 - 📫 How to reach me: xueweiwujxw@outlook.com or xueweiwujxw@gmail.com
 - 📝 I regularly write articles on https://wlanxww.com
